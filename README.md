@@ -130,18 +130,6 @@ A web and administration system developed during my internship, working with ban
 
 ---
 
-## 📊 GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ilaydacan7&show_icons=true&hide_border=true&theme=transparent" height="165" alt="GitHub Statistics"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilaydacan7&layout=compact&hide_border=true&theme=transparent" height="165" alt="Top Languages"/>
-
-</div>
-
----
-
 ## 🌱 What I'm Learning
 
 I'm continuously improving my skills in:
